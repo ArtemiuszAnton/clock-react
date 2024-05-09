@@ -1,0 +1,33 @@
+.rainbow {
+    background-image: url('./assets/rainbow.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 229px;
+    width: 450px;
+    position: absolute;
+    left: 30px;
+}
+
+.clock {
+    background-image: url('./assets/clock.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+
+.texts {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* h4 {
+    justify-content: center;
+    align-items: center;
+} */
